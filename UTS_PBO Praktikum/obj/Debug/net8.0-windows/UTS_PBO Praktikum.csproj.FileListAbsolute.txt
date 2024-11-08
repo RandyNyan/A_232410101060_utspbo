@@ -1,0 +1,24 @@
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.csproj.AssemblyReference.cache
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO_Praktikum.Addkontak.resources
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO_Praktikum.ChangeKontak.resources
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO_Praktikum.Halaman_Kontak.resources
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO_Praktikum.Login.resources
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.csproj.GenerateResource.cache
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.AssemblyInfo.cs
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\UTS_PBO Praktikum.exe
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\UTS_PBO Praktikum.deps.json
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\UTS_PBO Praktikum.runtimeconfig.json
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\UTS_PBO Praktikum.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\UTS_PBO Praktikum.pdb
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO .278028B4.Up2Date
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\refint\UTS_PBO Praktikum.dll
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.pdb
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\UTS_PBO Praktikum.genruntimeconfig.cache
+C:\Users\randy\source\repos\UTS_PBO Praktikum\obj\Debug\net8.0-windows\ref\UTS_PBO Praktikum.dll

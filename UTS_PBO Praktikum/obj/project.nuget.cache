@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YSmt3JOrfmI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\randy\\source\\repos\\UTS_PBO Praktikum\\UTS_PBO Praktikum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\randy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\randy\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
